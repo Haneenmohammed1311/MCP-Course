@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "math": {
+      "type": "stdio",
+      "command": "C:\\Users\\hanee\\MCP-Course\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\hanee\\MCP-Course\\servers\\math_server.py"]
+    }
+  }
+}
